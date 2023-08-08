@@ -13,4 +13,8 @@ SR No   | Project | Brief description
 4 | [Heap](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile)
 5 | [Graph](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files)
 6 | [Arrays](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
+7 | [Dynamic Programming](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
+8 | [Hashing](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
+9 | [LinkedList](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
+10 | [Sorting](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
 
