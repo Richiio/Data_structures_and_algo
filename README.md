@@ -7,10 +7,10 @@
 
 SR No   | Project 
 --- | --- 
-1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello)
-2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)
-3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator)
-4 | [Instagram Profile Info](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile)
-5 | [Search string in Files](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files)
-6 | [Fetch links from Webpage](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
+1 | [Trees](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello)
+2 | [Bit_manipulation](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)
+3 | [Recursion](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator)
+4 | [Heap](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile)
+5 | [Graph](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files)
+6 | [Arrays](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
 
