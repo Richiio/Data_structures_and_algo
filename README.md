@@ -5,7 +5,7 @@
 
 <h3>Repository Structure</h3>
 
-SR No   | Project | Author  
+SR No   | Project |  
 --- | --- | ---
 1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | [Ravi Chavare](https://github.com/chavarera)
 2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)| [Murilo Pagliuso](https://github.com/DarkCeptor44)
