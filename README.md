@@ -5,8 +5,8 @@
 
 <h3>Repository Structure</h3>
 
-SR No   | Project 
---- | --- 
+SR No   | Project | Brief description
+--- | --- | ---
 1 | [Trees](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello)
 2 | [Bit_manipulation](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)
 3 | [Recursion](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator)
