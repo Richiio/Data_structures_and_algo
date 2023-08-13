@@ -7,7 +7,7 @@
 
 SR No   | Project | Brief description
 --- | --- | ---
-1 | [Trees](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello)
+1 | [Trees](https://github.com/Richiio/Data_structures_and_algo/tree/main/Trees)
 2 | [Bit_manipulation](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV)
 3 | [Recursion](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator)
 4 | [Heap](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile)
