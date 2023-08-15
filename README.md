@@ -12,7 +12,7 @@ SR No   | Project | Brief description
 3 | [Recursion](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator)
 4 | [Heap](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile)
 5 | [Graph](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files)
-6 | [Arrays](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
+6 | [Arrays](https://github.com/Richiio/Data_structures_and_algo/tree/main/Arrays)
 7 | [Dynamic Programming](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
 8 | [Hashing](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
 9 | [LinkedList](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage)
